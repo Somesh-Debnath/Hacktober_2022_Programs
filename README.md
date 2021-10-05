@@ -6,6 +6,6 @@
 ##### 2.If the program is a competitive programming solution,include the question link as a comment 
 # Steps to Follow
 ##### 1.Fork this repository
-##### 2.Please add your code in the respective folders.For example C program goes into a C program
+##### 2.Please add your code in the respective folders.For example C program goes into a C program folder
 ##### 3.Create a pull request
 ##### 4.I will merge it
