@@ -1,4 +1,9 @@
-# Hacktober_2021_Programs
+# Hacktoberfest 2021
+<div align="center">
+  <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" />
+  </div>
+Follow the README below to get started!
+
 ##### This Repository is created to help fellow coders learn open source contributions 
 ##### This Repository is created for Hacktoberfest 2021
 # Instructions
