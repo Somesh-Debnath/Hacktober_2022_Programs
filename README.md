@@ -5,7 +5,7 @@
 Follow the README below to get started!
 
 ##### This Repository is created to help fellow coders learn open source contributions 
-##### This Repository is created for Hacktoberfest 2021
+##### This Repository is created for Hacktoberfest 2022
 # Instructions
  1.Please make sure whether the algorithm or code you are contributing is not already available in this Repository.<br>
  
