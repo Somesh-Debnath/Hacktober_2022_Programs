@@ -1,6 +1,6 @@
 # Hacktoberfest 2022
 <div align="center">
-  <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" />
+  <img src="https://github.com/ossamamehmood/Hacktoberfest2022/blob/main/.github/logo.png" />
   </div>
 Follow the README below to get started!
 
