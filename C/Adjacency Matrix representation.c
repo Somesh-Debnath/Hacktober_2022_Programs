@@ -4,7 +4,6 @@
 
 #define V 4
 
-// Initialize the matrix to zero
 void init(int arr[][V])
 {
         int i, j;
